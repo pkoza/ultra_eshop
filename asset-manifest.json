@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.js": "/nfc-reader/static/js/main.48f8030e.chunk.js",
-    "main.js.map": "/nfc-reader/static/js/main.48f8030e.chunk.js.map",
+    "main.js": "/nfc-reader/static/js/main.abb3e881.chunk.js",
+    "main.js.map": "/nfc-reader/static/js/main.abb3e881.chunk.js.map",
     "runtime-main.js": "/nfc-reader/static/js/runtime-main.9f22f755.js",
     "runtime-main.js.map": "/nfc-reader/static/js/runtime-main.9f22f755.js.map",
     "static/js/2.15572f7b.chunk.js": "/nfc-reader/static/js/2.15572f7b.chunk.js",
@@ -12,6 +12,6 @@
   "entrypoints": [
     "static/js/runtime-main.9f22f755.js",
     "static/js/2.15572f7b.chunk.js",
-    "static/js/main.48f8030e.chunk.js"
+    "static/js/main.abb3e881.chunk.js"
   ]
 }
